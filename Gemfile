@@ -6,6 +6,8 @@ gem 'hanami-model', '~> 1.1'
 
 gem 'sqlite3'
 
+gem 'twilio-ruby'
+
 group :development do
   # Code reloading
   # See: http://hanamirb.org/guides/projects/code-reloading
