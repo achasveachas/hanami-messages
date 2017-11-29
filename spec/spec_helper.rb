@@ -3,5 +3,6 @@ ENV['HANAMI_ENV'] ||= 'test'
 
 require_relative '../config/environment'
 require 'minitest/autorun'
+require 'purdytest'
 
 Hanami.boot

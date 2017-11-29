@@ -21,6 +21,7 @@ end
 group :test do
   gem 'minitest'
   gem 'capybara'
+  gem 'purdytest'
 end
 
 group :production do
